@@ -1,10 +1,8 @@
 package example
 
-import org.apache.spark.sql.SparkSession
-import org.apache.spark.SparkContext
-import org.apache.spark.SparkConf
-import org.apache.spark.sql.DataFrame
-import org.apache.spark.sql.functions.col
+import org.apache.spark.{SparkContext, SparkConf}
+import org.apache.spark.sql.{DataFrame, SparkSession}
+import org.apache.spark.sql.functions.{col, lit, expr, current_timestamp}
 import org.apache.spark.sql.types.StringType
 
 object Main {
@@ -36,23 +34,80 @@ object Main {
     df.show()
     df.printSchema()
 
-    df.select("Date", "Open", "Close").show()
-    val applyColClose = df.apply("Close")
-    val colOpen = col("Open")
+    // df.select("Date", "Open", "Close").show()
+    // val applyColClose = df.apply("Close")
+    // val colOpen = col("Open")
 
-    import spark.implicits._
-    val implicitDate = $"Date"
+    // import spark.implicits._
+    // val implicitDate = $"Date"
 
-    df.select(implicitDate, colOpen, applyColClose).show()
+    // df.select(implicitDate, colOpen, applyColClose).show()
 
-    val addedCol = (colOpen + (2.0)).name("Open Added 2.0")
+    // val addedCol = (colOpen + (2.0)).name("Open Added 2.0")
 
-    val stringAddedCol = addedCol.cast(StringType)
+    // val stringAddedCol = addedCol.cast(StringType)
 
-    df.select(colOpen, addedCol).show()
+    // val literalTest = lit(-1.0)
 
-    df.select(colOpen, applyColClose, implicitDate)
-      .filter(colOpen > applyColClose)
-      .show()
+    // df.select(colOpen, addedCol).show()
+
+    // df.select(colOpen, applyColClose, implicitDate, literalTest)
+    //   .filter(colOpen > applyColClose)
+    //   .show()
+
+    // println(df.count())
+
+    // val timestampCol = expr(
+    //   "cast(current_timestamp() as string) as timestampExp"
+    // )
+    // val timestampFuncCol =
+    //   current_timestamp().cast(StringType).as("timestampFunction")
+
+    // df.select(timestampCol, timestampFuncCol).show()
+
+    // df.selectExpr("cast(Date as string)", "Open + 1.0", "current_timestamp()")
+    //   .show()
+
+    // df.createTempView("myDf")
+    // spark
+    //   .sql("""
+    // SELECT * FROM myDf WHERE Close > Open
+    // """)
+    //   .show()
+
+    val renamedCols = List(
+      col("Date").as("date"),
+      col("Open").as("open"),
+      col("High").as("high"),
+      col("Close").as("close"),
+      col("Low").as("low"),
+      col("Adj close").as("adjclose"),
+      col("Volume").as("volume")
+    )
+
+    val stockData = df
+      .select(df.columns.map(c => col(c).as(toCamelCase(c))): _*)
+      .withColumn("diff", col("close") - col("open"))
+
+    stockData.show()
+
+    val tenPercentHigherClose =
+      stockData.filter(col("close") >= col("open") * 0.1 + col("open"))
+
+    tenPercentHigherClose.show()
+  }
+
+  def toCamelCase(arg: String): String = {
+    val words = arg.toLowerCase().split(" +")
+    var result = ""
+    for (i <- words.indices) {
+      var currentWord = words(i)
+      if (i != 0) {
+        currentWord = currentWord.capitalize
+      }
+      result += currentWord
+    }
+
+    return result
   }
 }

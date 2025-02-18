@@ -2688,3 +2688,1303 @@ Feb 16, 2025 11:51:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint noti
 WARNING: Unsupported notification method: metals/windowStateDidChange
 Feb 16, 2025 11:51:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:51:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:51:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:51:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:52:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:52:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:52:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.16 23:52:50 INFO  compiling scala-spark (1 scala source)
+2025.02.16 23:52:50 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.16 23:52:50 INFO  time: compiled scala-spark in 0.72s
+Feb 16, 2025 11:52:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:53:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.16 23:53:21 INFO  compiling scala-spark (1 scala source)
+2025.02.16 23:53:21 INFO  time: compiled scala-spark in 0.69s
+Feb 16, 2025 11:53:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:53:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:53:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9246
+Feb 16, 2025 11:53:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:54:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:54:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 16, 2025 11:54:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:12:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:12:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:13:29 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:13:29 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.17 00:13:29 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+Feb 17, 2025 12:13:29 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 12:13:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9669
+2025.02.17 00:13:29 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.17 00:13:29 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+Feb 17, 2025 12:13:29 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 00:13:29 INFO  time: compiled scala-spark in 0.57s
+2025.02.17 00:13:32 INFO  compiling scala-spark (1 scala source)
+Feb 17, 2025 12:13:32 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 00:13:32 INFO  time: compiled scala-spark in 0.55s
+Feb 17, 2025 12:13:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:13:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:13:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:13:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:13:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:13:57 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:13:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:14:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:18:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:18:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:18:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:18:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:18:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9763
+2025.02.17 00:18:49 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:18:49 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.17 00:18:49 INFO  time: compiled scala-spark in 0.68s
+Feb 17, 2025 12:18:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:18:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:19:02 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_15-10-06-288.md)
+2025.02.17 00:19:10 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:19:10 INFO  time: compiled scala-spark in 0.14s
+Feb 17, 2025 12:19:12 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_00-19-12-232.md)
+Feb 17, 2025 12:19:13 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_00-19-12-232.md)
+Feb 17, 2025 12:19:13 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_15-10-06-288.md)
+2025.02.17 00:19:14 WARN  Could not find 'SparkSession' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 17, 2025 12:19:14 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 12:19:20 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_00-19-20-363.md)
+2025.02.17 00:19:23 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:19:23 INFO  time: compiled scala-spark in 0.12s
+2025.02.17 00:19:31 INFO  time: compiled scala-spark in 3ms
+2025.02.17 00:19:31 INFO  time: compiled scala-spark-test in 2ms
+Feb 17, 2025 12:19:36 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_15-10-06-288.md)
+Feb 17, 2025 12:19:36 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_15-10-06-288.md)
+2025.02.17 00:19:38 INFO  compiling scala-spark (1 scala source)
+Feb 17, 2025 12:19:38 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_00-19-38-786.md)
+2025.02.17 00:19:38 INFO  time: compiled scala-spark in 0.59s
+2025.02.17 00:19:40 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.17 00:19:40 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:19:40 INFO  time: compiled scala-spark in 0.46s
+2025.02.17 00:19:48 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:19:48 INFO  time: compiled scala-spark in 0.57s
+Feb 17, 2025 12:19:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:19:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:20:08 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:20:08 INFO  time: compiled scala-spark in 0.14s
+Feb 17, 2025 12:20:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:41 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:20:43 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:20:43 INFO  time: compiled scala-spark in 0.54s
+2025.02.17 00:20:43 INFO  time: compiled scala-spark-test in 4ms
+Feb 17, 2025 12:20:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:47 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:20:52 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_00-20-52-454.md)
+2025.02.17 00:20:52 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:20:52 INFO  time: compiled scala-spark in 0.56s
+Feb 17, 2025 12:20:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:21:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:22:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:22:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:22:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:22:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:22:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:22:52 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:22:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10516
+2025.02.17 00:22:58 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:22:58 WARN  1 deprecation (since 2.13.3); re-run with -deprecation for details
+2025.02.17 00:22:58 INFO  time: compiled scala-spark in 0.64s
+Feb 17, 2025 12:23:02 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:23:04 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:23:10 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:23:10 INFO  time: compiled scala-spark in 0.54s
+2025.02.17 00:23:12 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:23:12 INFO  time: compiled scala-spark in 0.51s
+Feb 17, 2025 12:23:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:23:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:23:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:23:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:23:47 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:23:47 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.17 00:23:47 INFO  time: compiled scala-spark in 0.59s
+Feb 17, 2025 12:23:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:23:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:23:56 INFO  compiling scala-spark (1 scala source)
+Feb 17, 2025 12:23:57 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: . (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals/2025-02-17/r_invalid-symbol_00-23-57-017.md)
+2025.02.17 00:23:57 ERROR searching for `.` failed
+java.lang.RuntimeException: invalid symbol format
+.
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:211)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:131)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:140)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:140)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:47)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:44)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:43)
+	at scala.meta.internal.metals.DefinitionProvider.fromFallback$1(DefinitionProvider.scala:132)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$13(DefinitionProvider.scala:139)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:146)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+Feb 17, 2025 12:23:57 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: # (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals/2025-02-17/r_invalid-symbol_00-23-57-019.md)
+2025.02.17 00:23:57 ERROR searching for `#` failed
+java.lang.RuntimeException: invalid symbol format
+#
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:214)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:131)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:140)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:140)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:47)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:44)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:43)
+	at scala.meta.internal.metals.DefinitionProvider.fromFallback$1(DefinitionProvider.scala:132)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$13(DefinitionProvider.scala:139)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:146)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+Feb 17, 2025 12:23:57 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: (). (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals/2025-02-17/r_invalid-symbol_00-23-57-020.md)
+2025.02.17 00:23:57 ERROR searching for `().` failed
+java.lang.RuntimeException: invalid symbol format
+().
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:209)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:131)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:140)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:140)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:47)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:44)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:43)
+	at scala.meta.internal.metals.DefinitionProvider.fromFallback$1(DefinitionProvider.scala:132)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$13(DefinitionProvider.scala:139)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:146)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+
+2025.02.17 00:23:57 WARN  Could not find 'cast' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. 
+Feb 17, 2025 12:23:57 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 00:23:56 INFO  time: compiled scala-spark in 0.13s
+2025.02.17 00:24:06 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:24:06 INFO  time: compiled scala-spark in 0.14s
+Feb 17, 2025 12:24:07 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:24:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:24:15 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:24:15 INFO  time: compiled scala-spark in 0.53s
+2025.02.17 00:24:15 INFO  time: compiled scala-spark-test in 2ms
+Feb 17, 2025 12:24:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:24:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:24:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:24:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:24:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:24:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:24:46 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 12:24:47 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_00-24-47-077.md)
+Feb 17, 2025 12:24:48 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 12:24:48 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 12:24:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 12:24:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 12:24:54 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_00-24-54-862.md)
+Feb 17, 2025 12:25:05 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Exception in thread "pool-46-thread-1" Exception in thread "pool-46-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:207)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+Feb 17, 2025 12:25:06 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 12:25:09 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:25:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:25:19 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:25:21 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:25:28 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:25:28 INFO  time: compiled scala-spark in 0.59s
+Feb 17, 2025 12:25:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:25:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:25:34 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:25:34 INFO  time: compiled scala-spark in 0.67s
+Feb 17, 2025 12:25:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:25:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:25:56 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:26:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:26:11 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 00:26:11 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:26:11 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.17 00:26:11 INFO  time: compiled scala-spark in 0.64s
+2025.02.17 00:26:23 INFO  compiling scala-spark (1 scala source)
+Feb 17, 2025 12:26:23 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 00:26:23 INFO  time: compiled scala-spark in 0.55s
+Feb 17, 2025 12:26:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:26:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:26:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:26:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:27:04 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:27:04 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.17 00:27:04 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.17 00:27:04 INFO  time: compiled scala-spark in 0.6s
+Feb 17, 2025 12:27:47 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_00-27-47-845.md)
+2025.02.17 00:27:52 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:27:52 INFO  time: compiled scala-spark in 0.63s
+Feb 17, 2025 12:27:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:28:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:30:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:30:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:30:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:30:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:30:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:30:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:30:35 INFO  compiling scala-spark (1 scala source)
+Feb 17, 2025 12:30:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:30:35 INFO  time: compiled scala-spark in 0.69s
+Feb 17, 2025 12:30:39 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:30:43 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:30:43 INFO  time: compiled scala-spark in 0.65s
+Feb 17, 2025 12:30:45 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:30:46 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:30:48 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:30:48 INFO  time: compiled scala-spark in 0.51s
+2025.02.17 00:30:55 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:30:55 INFO  time: compiled scala-spark in 0.57s
+2025.02.17 00:30:58 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:30:58 INFO  time: compiled scala-spark in 0.52s
+Feb 17, 2025 12:31:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:31:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:31:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:31:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:31:53 INFO  compiling scala-spark (1 scala source)
+Feb 17, 2025 12:31:54 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:31:53 INFO  time: compiled scala-spark in 0.62s
+Feb 17, 2025 12:31:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:32:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:32:17 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:32:19 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:32:19 INFO  time: compiled scala-spark in 0.67s
+2025.02.17 00:32:21 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:32:22 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.17 00:32:21 INFO  time: compiled scala-spark in 0.6s
+Feb 17, 2025 12:32:23 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:32:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:32:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:32:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:32:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12482
+2025.02.17 00:33:02 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:33:02 INFO  time: compiled scala-spark in 0.58s
+2025.02.17 00:33:04 INFO  compiling scala-spark (1 scala source)
+Feb 17, 2025 12:33:04 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 00:33:04 INFO  time: compiled scala-spark in 0.5s
+2025.02.17 00:33:07 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:33:07 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+2025.02.17 00:33:07 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala
+Feb 17, 2025 12:33:08 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 00:33:07 INFO  time: compiled scala-spark in 0.55s
+Feb 17, 2025 12:33:08 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 12:33:08 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 00:33:09 INFO  compiling scala-spark (1 scala source)
+Feb 17, 2025 12:33:10 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 00:33:09 INFO  time: compiled scala-spark in 0.69s
+Feb 17, 2025 12:33:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:33:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:33:15 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:33:29 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:33:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:33:34 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:33:37 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:33:38 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:34:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:34:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12664
+Feb 17, 2025 12:34:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12685
+Feb 17, 2025 12:34:23 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 00:34:23 INFO  compiling scala-spark (1 scala source)
+2025.02.17 00:34:23 INFO  time: compiled scala-spark in 0.65s
+Feb 17, 2025 12:34:28 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:34:30 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:34:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:34:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:34:42 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:35:48 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:57:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:57:49 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:58:08 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 12:59:01 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 1:15:12 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 1:15:13 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 1:15:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 1:16:25 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 1:16:33 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 1:16:35 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:22:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12864
+Feb 17, 2025 3:59:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12870
+Feb 17, 2025 4:38:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12873
+Feb 17, 2025 4:38:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12874
+Feb 17, 2025 4:38:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12876
+Feb 17, 2025 7:04:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12882
+Feb 17, 2025 8:42:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12888
+Feb 17, 2025 9:18:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12894
+Feb 17, 2025 11:15:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12898
+Feb 17, 2025 11:15:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12897
+Feb 17, 2025 11:15:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12900
+Feb 17, 2025 11:30:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 11:30:36 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 11:31:22 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 11:31:27 INFO  Shutting down server
+2025.02.17 11:31:27 INFO  shutting down Metals
+2025.02.17 11:31:27 INFO  Shut down connection with build server.
+2025.02.17 11:31:27 INFO  Shut down connection with build server.
+2025.02.17 11:31:27 INFO  Exiting server
+2025.02.17 14:23:45 INFO  Started: Metals version 1.5.1 in folders '/Users/xelathan/scala-spark' for client Visual Studio Code 1.97.0.[0m
+2025.02.17 14:23:50 INFO  no build target found for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Feb 17, 2025 2:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.02.17 14:23:50 INFO  no build target found for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.17 14:23:51 INFO  no build target found for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.17 14:23:50 INFO  no build target found for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.17 14:23:51 INFO  Attempting to connect to the build server...[0m
+Feb 17, 2025 2:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2025.02.17 14:23:50 INFO  no build target found for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.17 14:23:51 INFO  Found a Bloop server running[0m
+2025.02.17 14:23:50 INFO  no build target found for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.17 14:23:50 INFO  no build target found for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.17 14:23:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xelathan/scala-spark/.metals/bsp.trace.json or /Users/xelathan/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+Feb 17, 2025 2:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Feb 17, 2025 2:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2025.02.17 14:23:51 INFO  no build target found for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.02.17 14:23:51 INFO  Attempting to connect to the build server...[0m
+2025.02.17 14:23:51 INFO  Found a Bloop server running[0m
+Feb 17, 2025 2:23:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2025.02.17 14:23:51 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/xelathan/scala-spark/project/.metals/bsp.trace.json or /Users/xelathan/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.02.17 14:23:52 INFO  time: Connected to build server in 0.32s[0m
+2025.02.17 14:23:52 INFO  Connected to Build server: Bloop v2.0.8[0m
+2025.02.17 14:23:51 INFO  running doctor check[0m
+2025.02.17 14:23:51 INFO  java targets: scala-spark-build, scala-spark, scala-spark-test[0m
+2025.02.17 14:23:55 INFO  time: indexed workspace in 3.37s[0m
+Feb 17, 2025 2:24:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:06:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:06:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:06:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:08:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:09:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:09:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:10:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:11:01 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:11:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:11:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:11:45 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:11:45 INFO  time: compiled scala-spark in 0.81s[0m
+Feb 17, 2025 3:11:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:11:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:12:06 INFO  compiling scala-spark (1 scala source)[0m
+Feb 17, 2025 3:12:06 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 15:12:06 INFO  time: compiled scala-spark in 0.57s[0m
+2025.02.17 15:12:18 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:12:18 INFO  time: compiled scala-spark in 0.5s[0m
+Feb 17, 2025 3:12:20 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:12:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:12:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:12:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:12:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 335
+2025.02.17 15:13:02 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:13:02 INFO  time: compiled scala-spark in 0.58s[0m
+Feb 17, 2025 3:13:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:13:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:13:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:13:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:13:17 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:13:17 INFO  time: compiled scala-spark in 0.6s[0m
+Feb 17, 2025 3:13:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:13:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:13:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 545
+Feb 17, 2025 3:13:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 546
+2025.02.17 15:13:47 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:13:47 INFO  time: compiled scala-spark in 0.18s[0m
+2025.02.17 15:13:47 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:13:49 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:13:50 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:13:49 INFO  time: compiled scala-spark in 0.57s[0m
+Feb 17, 2025 3:13:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 645
+Feb 17, 2025 3:13:55 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 2104, count -1, length 2208
+Feb 17, 2025 3:14:00 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 2085, count -1, length 2218
+2025.02.17 15:14:02 ERROR scalafmt: /Users/xelathan/scala-spark/src/main/scala/example/Main.scala:82: error: [dialect scala213] identifier expected but ) found
+    )
+    ^[0m
+2025.02.17 15:14:02 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:14:02 INFO  time: compiled scala-spark in 0.1s[0m
+2025.02.17 15:14:02 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:14:04 INFO  time: compiled scala-spark in 0.46s[0m
+2025.02.17 15:14:05 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:14:05 INFO  time: compiled scala-spark in 0.47s[0m
+Feb 17, 2025 3:14:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:14:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:14:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:14:48 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:14:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:14:54 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:14:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:14:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:14:59 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:14:59 INFO  time: compiled scala-spark in 0.54s[0m
+Feb 17, 2025 3:15:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:15:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:15:47 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:15:47 INFO  time: compiled scala-spark in 0.15s[0m
+2025.02.17 15:15:48 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:15:48 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+Feb 17, 2025 3:15:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:15:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:15:52 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:15:53 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+Feb 17, 2025 3:15:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1233
+Feb 17, 2025 3:15:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1234
+2025.02.17 15:15:54 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+Feb 17, 2025 3:15:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1246
+Feb 17, 2025 3:15:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1247
+2025.02.17 15:15:54 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:15:56 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:15:57 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:15:59 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:16:00 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:16:02 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:16:03 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:16:03 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+Feb 17, 2025 3:16:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:16:08 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:16:08 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+Feb 17, 2025 3:16:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:16:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:16:10 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:16:11 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:16:12 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:16:13 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+Feb 17, 2025 3:16:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:16:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:16:15 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:16:16 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:16:16 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:16:16 INFO  time: compiled scala-spark in 0.5s[0m
+Feb 17, 2025 3:16:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:16:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:16:25 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:16:25 INFO  time: compiled scala-spark in 0.58s[0m
+Feb 17, 2025 3:16:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:16:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:16:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:16:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:16:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:17:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:17:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:17:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:17:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:17:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:17:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:17:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:17:54 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:17:54 INFO  time: compiled scala-spark in 0.51s[0m
+Feb 17, 2025 3:17:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:17:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:18:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:18:10 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:18:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:18:22 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:18:26 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:18:26 INFO  time: compiled scala-spark in 0.59s[0m
+Feb 17, 2025 3:18:32 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:18:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:18:38 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:18:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:18:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:19:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:19:09 INFO  compiling scala-spark (1 scala source)[0m
+Feb 17, 2025 3:19:09 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_15-19-09-978.md)
+2025.02.17 15:19:09 INFO  time: compiled scala-spark in 0.76s[0m
+Feb 17, 2025 3:19:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1838
+Feb 17, 2025 3:19:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1851
+Feb 17, 2025 3:19:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1852
+Feb 17, 2025 3:19:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1853
+2025.02.17 15:19:27 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:19:27 INFO  time: compiled scala-spark in 0.13s[0m
+2025.02.17 15:19:28 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:19:30 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+Feb 17, 2025 3:19:30 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.02.17 15:19:30 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:19:30 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:19:30 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:19:30 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:19:30 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:19:30 INFO  time: compiled scala-spark in 0.6s[0m
+Feb 17, 2025 3:19:38 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 3:19:38 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 15:19:42 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:19:42 INFO  time: compiled scala-spark in 0.13s[0m
+2025.02.17 15:19:47 ERROR scalafmt: /Users/xelathan/scala-spark/src/main/scala/example/Main.scala:89: error: [dialect scala213] ) expected but _ found
+    df.select(renamedColsProgram: *_).show()
+                                   ^[0m
+2025.02.17 15:19:47 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:19:47 INFO  time: compiled scala-spark in 88ms[0m
+2025.02.17 15:19:58 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:19:58 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:19:58 INFO  time: compiled scala-spark in 0.56s[0m
+Feb 17, 2025 3:20:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:20:06 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:20:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:20:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:20:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:20:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:20:37 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_15-19-09-978.md)
+2025.02.17 15:20:40 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:20:40 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:20:40 INFO  time: compiled scala-spark in 0.57s[0m
+Feb 17, 2025 3:20:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:20:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:21:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:21:14 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:21:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:21:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:22:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:22:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:22:25 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:22:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:22:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2585
+Feb 17, 2025 3:22:58 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: . (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals/2025-02-17/r_invalid-symbol_15-22-58-847.md)
+2025.02.17 15:22:58 ERROR searching for `.` failed
+java.lang.RuntimeException: invalid symbol format
+.
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:211)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:131)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:140)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:140)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:47)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:44)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:43)
+	at scala.meta.internal.metals.DefinitionProvider.fromFallback$1(DefinitionProvider.scala:132)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$13(DefinitionProvider.scala:139)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:146)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+[0m
+Feb 17, 2025 3:22:58 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: # (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals/2025-02-17/r_invalid-symbol_15-22-58-855.md)
+2025.02.17 15:22:58 ERROR searching for `#` failed
+java.lang.RuntimeException: invalid symbol format
+#
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:214)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:131)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:140)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:140)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:47)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:44)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:43)
+	at scala.meta.internal.metals.DefinitionProvider.fromFallback$1(DefinitionProvider.scala:132)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$13(DefinitionProvider.scala:139)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:146)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+[0m
+Feb 17, 2025 3:22:58 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: scala.meta.internal.mtags.IndexingExceptions$InvalidSymbolException: (). (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals/2025-02-17/r_invalid-symbol_15-22-58-857.md)
+2025.02.17 15:22:58 ERROR searching for `().` failed
+java.lang.RuntimeException: invalid symbol format
+().
+^
+	at scala.sys.package$.error(package.scala:27)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.fail(Scala.scala:164)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.readChar(Scala.scala:176)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseValue(Scala.scala:192)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.parseDescriptor(Scala.scala:209)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser.entryPoint(Scala.scala:232)
+	at scala.meta.internal.semanticdb.Scala$DescriptorParser$.apply(Scala.scala:240)
+	at scala.meta.internal.semanticdb.Scala$ScalaSymbolOps$.owner$extension(Scala.scala:80)
+	at scala.meta.internal.mtags.Symbol.toplevel(Symbol.scala:50)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:200)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.findInIndex$1(FallbackDefinitionProvider.scala:131)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$15(FallbackDefinitionProvider.scala:140)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$3(FallbackDefinitionProvider.scala:140)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$2(FallbackDefinitionProvider.scala:47)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.$anonfun$search$1(FallbackDefinitionProvider.scala:44)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.FallbackDefinitionProvider.search(FallbackDefinitionProvider.scala:43)
+	at scala.meta.internal.metals.DefinitionProvider.fromFallback$1(DefinitionProvider.scala:132)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$13(DefinitionProvider.scala:139)
+	at scala.meta.internal.metals.DefinitionProvider.$anonfun$definition$15(DefinitionProvider.scala:146)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:470)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+[0m
+2025.02.17 15:22:58 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:22:58 WARN  Could not find 'split' using presentation compiler nor semanticdb. Trying to guess the definition using available information from local class context. [0m
+Feb 17, 2025 3:22:58 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 15:22:58 INFO  time: compiled scala-spark in 0.19s[0m
+Feb 17, 2025 3:23:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:23:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:23:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:23:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:23:43 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:23:43 INFO  time: compiled scala-spark in 0.16s[0m
+Feb 17, 2025 3:23:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:23:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:24:05 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:24:05 INFO  time: compiled scala-spark in 0.19s[0m
+2025.02.17 15:24:08 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:24:08 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:24:08 INFO  time: compiled scala-spark in 0.61s[0m
+Feb 17, 2025 3:24:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:24:33 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:24:34 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:24:49 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:24:54 ERROR scalafmt: /Users/xelathan/scala-spark/src/main/scala/example/Main.scala:97: error: [dialect scala213] then expected but } found
+    }
+    ^[0m
+2025.02.17 15:24:54 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:24:54 INFO  time: compiled scala-spark in 0.11s[0m
+2025.02.17 15:24:57 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:24:57 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:24:59 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:24:59 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:25:00 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:25:00 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:25:01 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:25:01 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+Feb 17, 2025 3:25:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3223
+2025.02.17 15:25:02 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+Feb 17, 2025 3:25:03 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3237
+2025.02.17 15:25:03 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:25:03 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:25:04 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:25:04 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:25:04 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:25:04 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:25:04 INFO  time: compiled scala-spark in 0.61s[0m
+Feb 17, 2025 3:25:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:25:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:25:18 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:25:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:25:23 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:25:23 INFO  time: compiled scala-spark in 0.18s[0m
+2025.02.17 15:25:30 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:25:30 INFO  time: compiled scala-spark in 0.12s[0m
+2025.02.17 15:25:33 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:25:33 INFO  time: compiled scala-spark in 0.13s[0m
+Feb 17, 2025 3:25:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3518
+2025.02.17 15:25:49 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:25:49 INFO  time: compiled scala-spark in 0.12s[0m
+Feb 17, 2025 3:25:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3565
+2025.02.17 15:26:08 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:26:08 INFO  time: compiled scala-spark in 0.16s[0m
+2025.02.17 15:26:10 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:26:10 INFO  time: compiled scala-spark in 0.15s[0m
+Feb 17, 2025 3:26:11 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+Feb 17, 2025 3:26:21 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 17, 2025 3:26:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:26:24 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Feb 17, 2025 3:26:29 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:26:31 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:26:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:26:44 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+2025.02.17 15:26:46 ERROR scalafmt: /Users/xelathan/scala-spark/src/main/scala/example/Main.scala:99: error: [dialect scala213] identifier expected but } found
+      }
+      ^[0m
+2025.02.17 15:26:46 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:26:46 INFO  time: compiled scala-spark in 0.11s[0m
+2025.02.17 15:26:50 ERROR scalafmt: /Users/xelathan/scala-spark/src/main/scala/example/Main.scala:99: error: [dialect scala213] identifier expected but } found
+      }
+      ^[0m
+2025.02.17 15:26:50 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:26:50 INFO  time: compiled scala-spark in 99ms[0m
+Feb 17, 2025 3:27:07 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:27:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:27:24 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:27:24 INFO  time: compiled scala-spark in 0.19s[0m
+Feb 17, 2025 3:27:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:27:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:27:56 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:27:56 INFO  time: compiled scala-spark in 0.16s[0m
+2025.02.17 15:28:02 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:28:02 INFO  time: compiled scala-spark in 0.14s[0m
+Feb 17, 2025 3:28:04 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:28:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:28:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:28:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:28:18 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:28:18 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:28:18 INFO  time: compiled scala-spark in 0.64s[0m
+2025.02.17 15:28:31 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:28:31 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:28:31 INFO  time: compiled scala-spark in 0.57s[0m
+Feb 17, 2025 3:28:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:28:45 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:28:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:28:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:28:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:28:58 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:26 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:35 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:36 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:29:38 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:29:38 INFO  time: compiled scala-spark in 0.19s[0m
+2025.02.17 15:29:38 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+Feb 17, 2025 3:29:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+2025.02.17 15:29:40 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:29:42 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:29:43 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:29:45 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:29:45 WARN  Could not load snapshot text for /Users/xelathan/scala-spark/src/main/scala/example/Main.scala[0m
+2025.02.17 15:29:45 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:29:45 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:29:45 INFO  time: compiled scala-spark in 0.61s[0m
+Feb 17, 2025 3:29:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:52 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:29:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4544
+2025.02.17 15:30:01 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:30:01 INFO  time: compiled scala-spark in 0.17s[0m
+2025.02.17 15:30:04 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:30:04 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:30:04 INFO  time: compiled scala-spark in 0.61s[0m
+2025.02.17 15:30:08 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:30:08 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:30:08 INFO  time: compiled scala-spark in 0.59s[0m
+Feb 17, 2025 3:30:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:30:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:30:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:30:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:30:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:30:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:31:13 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:31:15 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:31:21 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:31:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:32:00 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-17/r_empty-definition_(scala-spark)_15-32-00-330.md)
+2025.02.17 15:32:00 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:32:00 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:32:00 INFO  time: compiled scala-spark in 0.89s[0m
+Feb 17, 2025 3:32:40 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: offset 2511, count -1, length 2831
+2025.02.17 15:32:42 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:32:42 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:32:42 INFO  time: compiled scala-spark in 0.64s[0m
+2025.02.17 15:32:48 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:32:48 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:32:48 INFO  time: compiled scala-spark in 0.56s[0m
+Feb 17, 2025 3:32:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:32:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:32:57 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+SEVERE: empty definition using pc, found symbol in pc:  (full report at: /Users/xelathan/scala-spark/.metals/.reports/metals-full/2025-02-16/r_empty-definition_(scala-spark)_13-20-23-704.md)
+2025.02.17 15:33:00 INFO  compiling scala-spark (1 scala source)[0m
+2025.02.17 15:33:00 WARN  1 deprecation (since 2.13.0); re-run with -deprecation for details[0m
+2025.02.17 15:33:00 INFO  time: compiled scala-spark in 0.62s[0m
+Feb 17, 2025 3:33:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:33:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:33:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:33:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:34:09 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 3:35:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 6:04:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5373
+Feb 17, 2025 7:08:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5376
+Feb 17, 2025 7:08:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5379
+Feb 17, 2025 8:16:24 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 8:16:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 9:08:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
+Feb 17, 2025 9:08:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+WARNING: Unsupported notification method: metals/windowStateDidChange
